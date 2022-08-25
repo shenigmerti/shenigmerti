@@ -9,5 +9,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning python and web development
 
 
-https://user-images.githubusercontent.com/105445767/186748101-b24e2c0c-707a-4862-b42b-9abfad7e54e3.gif
 
+
+![Leki](https://user-images.githubusercontent.com/105445767/186748197-af198b0a-00d9-4cae-8bb5-2501ec974b2f.gif)
