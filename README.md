@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shenigmerti</h1>
 <h3 align="center">lil frontend developer from Georgia</h3>
 <img align="right" alt="coding" width="400" src="https://i.makeagif.com/media/2-08-2021/xNJRZz.gif">
-- 🔭 I’m currently working on **okrokanis cloude place**
+- 🔭 I’m currently working on **okrokanis cloud place**
 
 - 🌱 I’m currently learning **html,css,js**
 
